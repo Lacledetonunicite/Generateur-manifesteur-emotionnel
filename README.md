@@ -407,9 +407,7 @@
   <div class="section">
     <p class="section-subtitle">Chapitre 1</p>
     <h2 class="section-title">Les 5 audios du livret</h2>
-
     <div class="audio-grid">
-
       <!-- AUDIO 1 -->
       <div class="audio-card" id="card-1">
         <div class="audio-header">
@@ -439,7 +437,6 @@
           </div>
         </div>
       </div>
-
       <!-- AUDIO 2 -->
       <div class="audio-card" id="card-2">
         <div class="audio-header">
@@ -469,7 +466,6 @@
           </div>
         </div>
       </div>
-
       <!-- AUDIO 3 -->
       <div class="audio-card" id="card-3">
         <div class="audio-header">
@@ -499,7 +495,6 @@
           </div>
         </div>
       </div>
-
       <!-- AUDIO 4 -->
       <div class="audio-card" id="card-4">
         <div class="audio-header">
@@ -529,7 +524,6 @@
           </div>
         </div>
       </div>
-
       <!-- AUDIO 5 -->
       <div class="audio-card" id="card-5">
         <div class="audio-header">
