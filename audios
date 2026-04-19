@@ -1,7 +1,6 @@
 audio-GM-Sacrale/
 ├── index.html
 ├──.nojekyll
-Jekyll
 └── audios/
     ├── 01-bienvenu.mp3
     ├── 02-connexionsacrale.mp3
