@@ -462,7 +462,7 @@
                 <span id="dur-audio2">--:--</span>
               </div>
             </div>
-            <audio id="audio2" src="audios/02-connexionsacrale.mp3" preload="none"></audio>
+            <audio id="audio2" src="audios/02-connexionsacral.mp3" preload="none"></audio>
           </div>
         </div>
       </div>
